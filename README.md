@@ -4,10 +4,10 @@ Replicate the design in this [Figma file](https://www.figma.com/file/F8d1qJsorEd
 
 # my-solution-here
 The use of css grid on this task has rolled up my sleeve i guess 😄 😄 😄
-[!Screenshot](screenshots/3.png)
-[!Screenshot](screenshots/4.png)
+[!Screenshot](3.png)
+[!Screenshot](4.png)
 
 # Responsive for mobile
-[!Screenshot](screenshots/2.png)
-[!Screenshot](screenshots/2.png)
-[!Screenshot](screenshots/5.png)
+[!Screenshot](1.png)
+[!Screenshot](2.png)
+[!Screenshot](5.png)
